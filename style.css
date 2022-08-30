@@ -1,0 +1,80 @@
+html,
+body {
+  font-family: "Times New Roman", Times, serif !important;
+}
+.header {
+  background-color: #a2bfb0;
+  color: #fff;
+}
+.header:hover {
+  background-color: #a2bfb094;
+}
+li {
+  list-style: none;
+}
+.hero {
+  background-image: url("./Assets/asset\ 33.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh !important;
+  width: 100%;
+}
+
+.card {
+  border: none !important;
+  padding: 1.5rem !important;
+}
+.card-footer {
+  background-color: #fff !important;
+}
+.hero-inner,
+.hero-inner-second {
+  background-image: url("./Assets/asset\ 34.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 70vh;
+}
+
+.card-img-1,
+.card-img-2 {
+  background-image: url("./Assets/asset\ 35.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 70vh;
+  border-radius: 0%;
+}
+
+.card-img-2 {
+  background-image: url("./Assets/asset\ 36.png");
+}
+.card-img-1:hover,
+.card-img-2:hover {
+  opacity: 0.7;
+}
+.hero-inner-second {
+  background-image: url("./Assets/asset\ 37.jpeg");
+}
+.get-inspired-img {
+  background-image: url("./Assets/getinspired.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 90vh;
+}
+.hero-second {
+  background-image: url("./Assets/asset\ 38.png");
+  height: 70vh !important;
+  background-position: top;
+}
+.hero-third {
+  background-image: url("./Assets/asset\ 39.png");
+}
+.hero-third:hover {
+  opacity: 0.7;
+}
